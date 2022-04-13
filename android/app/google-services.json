@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "802620245494",
+    "firebase_url": "https://testdev-332913-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "testdev-332913",
+    "storage_bucket": "testdev-332913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802620245494:android:3168119dd7af18d09673d7",
+        "android_client_info": {
+          "package_name": "com.nexton.ebg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802620245494-1ei4j3d04cdkaanb9k3uif1lbkj0bac1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5oRA_Li02_K9ktB0dP8jh9fQHtBDKOHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802620245494-1ei4j3d04cdkaanb9k3uif1lbkj0bac1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
