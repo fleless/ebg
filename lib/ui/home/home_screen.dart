@@ -82,6 +82,15 @@ class _HomeScreenState extends State<HomeScreen> {
             InkWell(
               splashColor: AppColors.white.withOpacity(0.2),
               highlightColor: Colors.transparent,
+              onTap: () => homeBloc.exportCSV(), //do something,
+              child: const Text('Export to Excel',
+                  style: AppStyles.subTitle,
+                  overflow: TextOverflow.clip,
+                  maxLines: 2),
+            ),
+            InkWell(
+              splashColor: AppColors.white.withOpacity(0.2),
+              highlightColor: Colors.transparent,
               onTap: () => Modular.to.pushNamed(Routes.newFile), //do something,
               child: Image.asset(
                 AppImages.nouvelleFiche,

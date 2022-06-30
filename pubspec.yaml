@@ -68,6 +68,7 @@ dependencies:
   open_file: ^3.2.1
   permission_handler: ^8.1.4+2
   dio: ^4.0.1
+  syncfusion_flutter_xlsio: ^20.1.50-beta
 
 dev_dependencies:
   flutter_test:

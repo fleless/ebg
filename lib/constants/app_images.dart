@@ -23,6 +23,4 @@ class AppImages {
 
   static String get btnTerminer => 'assets/images/btn_terminer.png';
 
-  static String get newImage => 'assets/images/btn_terminer.png';
-
 }
